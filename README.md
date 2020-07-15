@@ -1,2 +1,2 @@
 # Digital-Depth-Perception
-SoC project for creation of an algorithm for depth perception using analysis of images.
+Novel algorithm for optimizing generation of Disparity map, with an aim towards development of time-efficient algorithm for visual sensors of a bot.
